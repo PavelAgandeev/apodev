@@ -1,4 +1,4 @@
-# Math Games Apps
+# Math Games
 
 Privacy Policy.
 
