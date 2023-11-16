@@ -1,5 +1,4 @@
 google.com, pub-8344768042478183, DIRECT, f08c47fec0942fa0
-google.com, pub-4997095338818531, DIRECT, f08c47fec0942fa0
 #=== AdColony
 adcolony.com, 4f99f033452c0143c565ad88578f8264, DIRECT, 1ad675c9de6b5176
 #=== AdColony partner 1
