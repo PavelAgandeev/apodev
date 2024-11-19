@@ -363,6 +363,31 @@ zmaticoo.com, 5135195, RESELLER
 
 #=== Inmobi
 inmobi.com, ba03929948934a2a844b6c60534fcfae, DIRECT, 83e75a7ae333ca9d
+onetag.com, 8d4bbebb8fa701e, reseller
+freewheel.tv, 1606620, reseller
+added.tv, d4cfaf78, reseller
+pubmatic.com, 165116, reseller, 5d62403b186f2ace
+added.tv, 3d20ca0f, reseller
+videoheroes.tv, 212430, reseller, 064bc410192443d8
+video.unrulymedia.com, 436487936, reseller
+zmaticoo.com, 113149, reseller
+tredio.io, 357a6fdf7642bf815a88822c447d9dc432901, reseller
+dauup.com, 34103, reseller
+e-planning.net, 608359bb987625b2, reseller, c1ba615865ed87b2
+freewheel.tv, 1606633, reseller
+peak226.com, 12904, reseller
+sabio.us, 100071, reseller, 96ed93aaa9795702
+lijit.com, 511365, reseller, fafdf38b16bf6b2b
+smartyads.com, 478, reseller, fd2bde0ff2e62c5d
+zmaticoo.com, 5135082, reseller
+magicmedia.ae, 6f828808, reseller
+yieldmo.com, 3591550211052216798, reseller, 6a92c77cfc3d2258
+voisetech.com, 1023, reseller
+programmaticx.ai, 6999766, reseller
+adtonos.com, pub2356156682, reseller
+video.unrulymedia.com, 764922532, reseller
+rubiconproject.com, 25906, reseller, 0bfd66d529a55807
+themediagrid.com, jaz4ri, reseller, 35d5010d7789b49d
 eskimi.com, 2020000030, RESELLER
 freewheel.tv, 1585681, RESELLER
 loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
